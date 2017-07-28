@@ -1,6 +1,6 @@
 # ImgrecognitionOpenCv
 
 -face detection 
--train engine
+-training engine
 -facial recognition
 
